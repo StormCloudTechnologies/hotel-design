@@ -891,7 +891,7 @@ p.alert i { float:none; display:block; margin-bottom:7px; }
 
 /* 4.19 - Subscribe */
 
-.subscribe { margin-bottom:80px; padding:70px 0 80px; text-align:center; background:#555; }
+.subscribe { margin-bottom:80px; padding:70px 0 10px; text-align:center; background:#555; }
 .subscribe .center { margin:auto; padding:0 30px; }
 .subscribe h3 { width:100%; text-align:center; color:#FFF; font-weight:200; display:block; }
 .subscribe h3 strong { font-weight:300; }
