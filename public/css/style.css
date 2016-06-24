@@ -995,7 +995,7 @@ footer .stars { margin-bottom:15px; }
 }
 
 @media only screen and (max-width:480px) {
-.footer-links { height:80px; margin:0 0 0 10px; display:block; }
+.footer-links { height:50px; margin:0 0 0 10px; display:block;line-height: 3; }
 .footer-links li a { padding:0 10px; }
 #language { right:20px; }
 }
